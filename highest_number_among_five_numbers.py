@@ -13,4 +13,8 @@ def highest_number():
     # Compare the second number to the highest number
     if num_2 > highest:
         highest = num_2
+    
+    # Compare the third number to the highest number
+    if num_3 > highest:
+        highest = num_3
 
