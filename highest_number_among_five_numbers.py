@@ -6,3 +6,6 @@ def highest_number():
     num_3 = float(input("Enter the third number: "))
     num_4 = float(input("Enter the fourth number: "))
     num_5 = float(input("Enter the fifth number: "))
+
+    # Assume the first number as the highest number
+    highest = num_1
