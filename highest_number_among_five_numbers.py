@@ -21,4 +21,8 @@ def highest_number():
     # Compare the fourth number to the highest number
     if num_4 > highest:
         highest = num_4
+    
+    # Compare the fifth number to the highest number
+    if num_5 > highest:
+        highest = num_5
 
