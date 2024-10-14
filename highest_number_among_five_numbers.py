@@ -9,3 +9,8 @@ def highest_number():
 
     # Assume the first number as the highest number
     highest = num_1
+
+    # Compare the second number to the highest number
+    if num_2 > highest:
+        highest = num_2
+
