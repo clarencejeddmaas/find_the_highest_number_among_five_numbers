@@ -25,4 +25,7 @@ def highest_number():
     # Compare the fifth number to the highest number
     if num_5 > highest:
         highest = num_5
+    
+    # Print the highest number
+    print(f"The highest number is:", highest)
 
