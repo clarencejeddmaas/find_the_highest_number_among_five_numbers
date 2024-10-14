@@ -28,3 +28,6 @@ def highest_number():
     
     # Print the highest number
     print(f"The highest number is:", highest)
+
+# Call the function
+highest_number()
